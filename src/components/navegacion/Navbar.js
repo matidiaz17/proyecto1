@@ -27,6 +27,7 @@ const Navbar = () => {
         </ul>
     </div>
     </div>
+    <shoppingCart/>
 </nav>
         </div>
     )
